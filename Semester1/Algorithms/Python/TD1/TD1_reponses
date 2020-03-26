@@ -1,0 +1,28 @@
+Exercise 1
+
+1. 27  
+2. DaDaDaDa
+3. TypeError: must be str, not int
+4. TypeError: unsupported operand type(s) for /: 'str' and 'int'
+5. 2
+6. SyntaxError: unexpected character after line continuation character
+7. "444"
+8. 6.2
+9. TypeError: can't multiply sequence by non-int of type 'float'
+10.'0.750.75'
+
+Exercise 2 
+
+>>> for i in range(0,50):
+...     print('Je dois ranger mon bureau ')
+
+Exercise 4
+
+2. 7 
+3. Rayo
+4. _X
+5. "Ray"
+6 "RynX"
+7. "X_noyaR"
+
+Exercise 5 
